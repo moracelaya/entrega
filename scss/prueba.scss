@@ -1,0 +1,24 @@
+$titulo: 18px "montserrat";
+$color: black;
+$tipo: "bw vivant";
+$tamaño: 48px;
+$backc: #e0e0e0;
+
+
+p{
+    font: $titulo;
+    color: $color;
+}
+ 
+h1{
+    font-family: $tipo;
+    font-size: $tamaño;
+}
+
+section#contact{
+    background-color: $backc;
+}
+
+.texto{
+    color: $color;
+}
